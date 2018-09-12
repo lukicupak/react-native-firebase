@@ -6,7 +6,7 @@
 #import "RNFirebaseUtil.h"
 #import <MobileCoreServices/MobileCoreServices.h>
 #import <Photos/Photos.h>
-#import <Firebase.h>
+#import <Firebase/Firebase.h>
 #import <React/RCTUtils.h>
 
 @implementation RNFirebaseStorage
